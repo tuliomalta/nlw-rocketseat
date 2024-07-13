@@ -14,5 +14,5 @@ public class ParticipantService {
 
     public void triggerConfirmationEmailToParticipants (UUID tripId) {
 
-    }
+    };
 }
